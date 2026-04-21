@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $lang := .Site.Language.Lang }}
-{{ $base := cond (eq $lang "en") "/en/authors/" "/auteurs/" }}
+{{ $base := cond (eq $lang "en") "en/authors/" "auteurs/" }}
 
 <section class="authors-listing">
     <div class="container">
