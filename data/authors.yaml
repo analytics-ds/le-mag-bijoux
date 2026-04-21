@@ -1,9 +1,6 @@
-# Auteurs du blog — multilingue FR/EN
-# Ce fichier est copie dans `data/authors.yaml` a la racine du site Hugo a la creation du site.
-# Hugo le lit nativement via `.Site.Data.authors` dans les templates.
-#
+# Auteurs du blog Le Mag Bijoux — multilingue FR/EN
 # Structure : map d'auteurs indexee par ID (slug)
-# L'ID est utilise dans le frontmatter des articles comme `author: thomas-durand`
+# L'ID est utilise dans le frontmatter des articles comme `author: magalie-ergoz`
 #
 # Le champ `topics` sert a la selection automatique de l'auteur dans /create-article.
 # Le champ `expertise` alimente le schema.org Person -> knowsAbout.
@@ -15,36 +12,32 @@ thomas-durand:
   avatar: images/authors/thomas-durand.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Redacteur en chef & analyste tech
-    en: Editor-in-Chief & tech analyst
+    fr: Historien du bijou & critique joaillerie
+    en: Jewelry historian & joaillerie critic
   role:
-    fr: Redacteur en chef & analyste tech
-    en: Editor-in-Chief & tech analyst
+    fr: Historien du bijou & critique joaillerie
+    en: Jewelry historian & joaillerie critic
   bio:
-    fr: "Thomas Durand est redacteur en chef. Passionne de technologie, il teste et compare les solutions numeriques pour aider les professionnels et particuliers a faire les bons choix."
-    en: "Thomas Durand is Editor-in-Chief. Passionate about technology, he tests and compares digital solutions to help professionals and individuals make the right choices."
+    fr: "Thomas Durand est historien du bijou formé à l'École du Louvre. Il décrypte l'évolution des formes, des matériaux et des maisons, du XIXe siècle aux créateurs contemporains, pour remettre chaque tendance dans sa perspective culturelle."
+    en: "Thomas Durand is a jewelry historian trained at the École du Louvre. He decodes the evolution of shapes, materials and houses, from the 19th century to contemporary creators, to place each trend in its cultural perspective."
   expertise:
-    - SaaS
-    - Cloud Computing
-    - Cybersecurite
-    - Outils de productivite
-    - Intelligence artificielle
-    - Materiel informatique
+    - Histoire du bijou
+    - Joaillerie contemporaine
+    - Grandes maisons
+    - Art déco
+    - Orfèvrerie
+    - Critique créateurs
   topics:
-    - tech
-    - technologie
-    - saas
-    - logiciel
-    - cloud
-    - cybersecurite
-    - securite informatique
-    - ia
-    - intelligence artificielle
-    - productivite
-    - outils pro
-    - b2b
-    - informatique
-    - hardware
+    - histoire bijou
+    - joaillerie
+    - maisons joaillerie
+    - art deco
+    - haute joaillerie
+    - creation contemporaine
+    - critique
+    - orfevrerie
+    - grandes maisons
+    - heritage
 
 magalie-ergoz:
   id: magalie-ergoz
@@ -53,33 +46,34 @@ magalie-ergoz:
   avatar: images/authors/magalie-ergoz.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Blogueuse mode & beaute
-    en: Fashion & beauty blogger
+    fr: Rédactrice en chef & spécialiste tendances bijoux
+    en: Editor-in-Chief & jewelry trends specialist
   role:
-    fr: Specialiste mode & beaute
-    en: Fashion & beauty specialist
+    fr: Rédactrice en chef & spécialiste tendances bijoux
+    en: Editor-in-Chief & jewelry trends specialist
   bio:
-    fr: "Magalie Ergoz est blogueuse specialisee en mode et beaute. Elle teste et compare les marques pour aider ses lectrices et lecteurs a trouver les meilleurs produits au juste prix."
-    en: "Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price."
+    fr: "Magalie Ergoz dirige la ligne éditoriale du Mag Bijoux. Spécialiste mode et tendances, elle décrypte les pièces qui marquent la saison, du créole statement aux bijoux de corps, et teste les marques françaises émergentes."
+    en: "Magalie Ergoz leads the editorial line at Le Mag Bijoux. A fashion and trends specialist, she decodes the pieces that define each season, from statement hoops to body jewelry, and tests emerging French brands."
   expertise:
+    - Tendances bijoux
     - Mode
-    - Beaute
-    - Cosmetiques
-    - Accessoires
-    - Skincare
-    - Parfums
+    - Boucles d'oreilles
+    - Bijoux de corps
+    - Layering
+    - Marques françaises
   topics:
+    - tendances
     - mode
-    - fashion
-    - beaute
-    - cosmetique
-    - maquillage
-    - skincare
-    - parfum
-    - accessoire
-    - vetement
+    - boucles oreilles
+    - creoles
+    - ear cuff
+    - bijoux corps
+    - chaine taille
+    - layering
+    - editorial
+    - marques françaises
     - lifestyle feminin
-    - luxe
+    - luxe accessible
 
 claire-beaumont:
   id: claire-beaumont
@@ -88,36 +82,35 @@ claire-beaumont:
   avatar: images/authors/claire-beaumont.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Architecte d'interieur & blogueuse deco
-    en: Interior designer & home blogger
+    fr: Gemmologue diplômée
+    en: Certified gemologist
   role:
-    fr: Experte habitat & renovation
-    en: Home & renovation expert
+    fr: Experte pierres fines & gemmologie
+    en: Gemology & fine stones expert
   bio:
-    fr: "Claire Beaumont est architecte d'interieur de formation et blogueuse depuis plus de 10 ans. Elle teste et compare outils, materiaux et prestataires pour aider particuliers et bricoleurs a reussir leurs projets habitat."
-    en: "Claire Beaumont is a trained interior designer and has been blogging for over 10 years. She tests and compares tools, materials and service providers to help homeowners and DIYers succeed in their home projects."
+    fr: "Claire Beaumont est gemmologue diplômée de l'Institut National de Gemmologie. Elle identifie, authentifie et explique pierres précieuses et fines, des diamants traçables aux tourmalines non chauffées, pour guider les achats éclairés."
+    en: "Claire Beaumont is a certified gemologist from the Institut National de Gemmologie. She identifies, authenticates and explains precious and fine stones, from traceable diamonds to unheated tourmalines, to guide informed purchases."
   expertise:
-    - Renovation
-    - Decoration interieure
-    - Bricolage
-    - Amenagement exterieur
-    - Materiaux de construction
-    - Mobilier
+    - Gemmologie
+    - Diamants
+    - Pierres précieuses
+    - Pierres fines
+    - Traçabilité minérale
+    - Certification
   topics:
-    - maison
-    - habitat
-    - renovation
-    - decoration
-    - bricolage
-    - amenagement
-    - jardin
-    - exterieur
-    - mobilier
-    - outillage
-    - construction
-    - materiau
-    - travaux
-    - immobilier residentiel
+    - gemmologie
+    - pierre precieuse
+    - diamant
+    - saphir
+    - emeraude
+    - rubis
+    - tourmaline
+    - opale
+    - labradorite
+    - pierre fine
+    - certification
+    - tracabilite pierre
+    - bijou pierre
 
 laura-verdier:
   id: laura-verdier
@@ -126,36 +119,36 @@ laura-verdier:
   avatar: images/authors/laura-verdier.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Journaliste sante & bien-etre
-    en: Health & wellness journalist
+    fr: Journaliste piercing & bijoux de corps
+    en: Piercing & body jewelry journalist
   role:
-    fr: Specialiste nutrition & bien-etre
-    en: Nutrition & wellness specialist
+    fr: Spécialiste piercing & cicatrisation
+    en: Piercing & healing specialist
   bio:
-    fr: "Laura Verdier est journaliste specialisee en sante, nutrition et bien-etre depuis 8 ans. Elle decortique les marques, les etudes et les tendances pour offrir a ses lecteurs une information fiable et accessible."
-    en: "Laura Verdier has been a journalist specializing in health, nutrition, and wellness for 8 years. She dissects brands, studies, and trends to provide her readers with reliable and accessible information."
+    fr: "Laura Verdier couvre l'univers du piercing et des bijoux de corps depuis 8 ans. Elle travaille avec des perceurs professionnels et des dermatologues pour démêler mythes et faits sur la cicatrisation, les métaux et les protocoles de soins."
+    en: "Laura Verdier has covered the world of piercing and body jewelry for 8 years. She works with professional piercers and dermatologists to untangle myths and facts about healing, metals and aftercare protocols."
   expertise:
-    - Nutrition
-    - Bien-etre
-    - Complements alimentaires
-    - Medecine douce
-    - Fitness
-    - Sommeil
+    - Piercing
+    - Cicatrisation
+    - Bijoux de corps
+    - Titane implantable
+    - Hygiène et soins
+    - Perceurs professionnels
   topics:
-    - sante
-    - bien etre
-    - nutrition
-    - alimentation
-    - complement alimentaire
-    - medecine naturelle
-    - phytotherapie
-    - fitness
-    - sport
-    - sommeil
-    - stress
-    - mental
-    - dietetique
-    - vitalite
+    - piercing
+    - cicatrisation
+    - helix
+    - tragus
+    - conch
+    - daith
+    - rook
+    - lobe
+    - labret
+    - titane
+    - bijoux corps
+    - chaine ventre
+    - anklet
+    - soins piercing
 
 kevin-moreau:
   id: kevin-moreau
@@ -164,37 +157,34 @@ kevin-moreau:
   avatar: images/authors/kevin-moreau.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Journaliste auto & mobilite
-    en: Auto & mobility journalist
+    fr: Journaliste joaillerie masculine & genderless
+    en: Men's and genderless jewelry journalist
   role:
-    fr: Specialiste transport & mobilite
-    en: Transport & mobility specialist
+    fr: Spécialiste bijoux masculins & genderless
+    en: Men's & genderless jewelry specialist
   bio:
-    fr: "Kevin Moreau couvre l'actualite automobile et des nouvelles mobilites depuis 12 ans. Il teste vehicules, solutions de transport et services de voyage pour guider les lecteurs dans leurs choix."
-    en: "Kevin Moreau has covered automotive news and new mobility for 12 years. He tests vehicles, transport solutions and travel services to guide readers in their choices."
+    fr: "Kevin Moreau couvre l'émergence de la joaillerie masculine et genderless depuis 6 ans. Il analyse les collections unisexe, les créateurs qui cassent les codes et les pièces qui traversent les genres : chaînes, anneaux, créoles sobres."
+    en: "Kevin Moreau has covered the rise of men's and genderless jewelry for 6 years. He analyzes unisex collections, creators breaking codes and pieces that cross genders: chains, rings, sober hoops."
   expertise:
-    - Automobile
-    - Mobilite electrique
-    - Transport urbain
-    - Voyage
-    - Train
-    - Aviation
+    - Joaillerie masculine
+    - Genderless
+    - Chaînes
+    - Bagues
+    - Créateurs émergents
+    - Unisex
   topics:
-    - transport
-    - automobile
-    - voiture
-    - auto
-    - moto
-    - velo
-    - trottinette
-    - mobilite
-    - electrique
-    - vehicule
-    - voyage
-    - train
-    - avion
-    - deplacement
-    - location vehicule
+    - joaillerie masculine
+    - bijoux homme
+    - genderless
+    - unisex
+    - chaine
+    - bague homme
+    - piercing homme
+    - creole sobre
+    - collier homme
+    - createurs emergents
+    - non-binaire
+    - mode masculine
 
 sophie-martin:
   id: sophie-martin
@@ -203,35 +193,31 @@ sophie-martin:
   avatar: images/authors/sophie-martin.jpg
   linkedinUrl: ""
   jobTitle:
-    fr: Journaliste finance & patrimoine
-    en: Finance & wealth journalist
+    fr: Journaliste joaillerie éthique & investissement
+    en: Ethical jewelry & investment journalist
   role:
-    fr: Specialiste epargne & investissement
-    en: Savings & investment specialist
+    fr: Spécialiste marques éthiques & valeur bijou
+    en: Ethical brands & jewelry value specialist
   bio:
-    fr: "Sophie Martin est journaliste financiere independante depuis 10 ans. Elle analyse et compare produits d'epargne, solutions d'investissement et strategies patrimoniales pour democratiser la finance personnelle."
-    en: "Sophie Martin has been an independent financial journalist for 10 years. She analyzes and compares savings products, investment solutions and wealth strategies to democratize personal finance."
+    fr: "Sophie Martin décrypte le bijou comme investissement et objet éthique depuis 10 ans. Elle enquête sur la traçabilité des métaux, les certifications Fairmined et RJC, et évalue la valeur résiduelle des pièces pour un achat durable."
+    en: "Sophie Martin has decoded jewelry as both an investment and an ethical object for 10 years. She investigates metal traceability, Fairmined and RJC certifications, and assesses residual value for lasting purchases."
   expertise:
-    - Epargne
-    - Investissement
-    - Immobilier locatif
-    - Fiscalite
-    - Assurance vie
-    - Bourse
+    - Joaillerie éthique
+    - Traçabilité
+    - Or recyclé
+    - Fairmined
+    - Investissement bijou
+    - Valeur résiduelle
   topics:
-    - finance
-    - placement
-    - epargne
-    - investissement
-    - bourse
-    - immobilier locatif
-    - scpi
-    - assurance vie
-    - pel
-    - livret
-    - fiscalite
-    - impot
-    - patrimoine
-    - retraite
-    - credit
-    - banque
+    - joaillerie ethique
+    - tracabilite
+    - or recycle
+    - fairmined
+    - rjc
+    - investissement bijou
+    - valeur bijou
+    - durabilite
+    - reparation a vie
+    - marques engagees
+    - ecoresponsable
+    - certification bijou
