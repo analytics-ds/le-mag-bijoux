@@ -83,11 +83,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "etape5 image fetch failed (Openverse API unreachable from sandbox, 2 tentatives)"
 
   - kw: "piercing nez douleur cicatrisation"
     category: "Piercings"
