@@ -1,5 +1,5 @@
 baseURL = "https://analytics-ds.github.io/le-mag-bijoux/"
-title = "Le Mag Bijoux"
+title = "Le Mag de Nébuleuse"
 theme = "nebuleuse"
 
 defaultContentLanguage = "fr"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
     languageCode = "fr-FR"
     languageName = "Français"
     weight = 1
-    title = "Le Mag Bijoux"
+    title = "Le Mag de Nébuleuse"
     contentDir = "content/fr"
     [languages.fr.params]
       description = "Le magazine des bijoux pour femmes : piercings, boucles d'oreilles, bijoux de corps et actualités bijoux pour femmes."
@@ -21,7 +21,7 @@ enableRobotsTXT = true
     languageCode = "en-US"
     languageName = "English"
     weight = 2
-    title = "Le Mag Bijoux"
+    title = "Le Mag de Nébuleuse"
     contentDir = "content/en"
     [languages.en.params]
       description = "The women jewelry magazine: piercings, earrings, body jewelry and jewelry news for women."

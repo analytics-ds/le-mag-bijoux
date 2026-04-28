@@ -10,7 +10,7 @@ tags: ["news", "2026 trends", "materials"]
 translationKey: "actualites-bijoux-tendances-2026"
 image: "images/blog/actualites-bijoux-tendances-2026.jpg"
 imageAlt: "Display of contemporary gold and titanium jewelry"
-imageCredit: "Le Mag Bijoux"
+imageCredit: "Le Mag de Nébuleuse"
 faq:
   - question: "Which materials are safest for a fresh piercing?"
     answer: "ASTM F136 titanium and 14k gold minimum are the only materials recommended by professional piercers for a healing piercing."

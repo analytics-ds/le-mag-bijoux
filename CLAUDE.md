@@ -81,7 +81,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 > Cette section est remplie automatiquement par le skill `/create-site`.
 > Elle permet a Claude de connaitre le contexte du site pour les futures actions.
 
-- **Nom du site** : Le Mag Bijoux
+- **Nom du site** : Le Mag de Nébuleuse
 - **Description (FR)** : Le magazine des bijoux pour femmes : piercings, boucles d'oreilles, bijoux de corps et actualites bijoux pour femmes.
 - **Description (EN)** : The women jewelry magazine: piercings, earrings, body jewelry and jewelry news for women.
 - **URL** : https://example.org/ (a mettre a jour avec le domaine final)

@@ -12,7 +12,8 @@
       "Bash(cp .claude/templates/layouts/sitemap-html.html themes/nebuleuse/layouts/_default/sitemap-html.html)",
       "Bash(mkdir -p .github/workflows)",
       "Bash(cp .claude/templates/hugo-workflow.yml .github/workflows/hugo.yml)",
-      "Bash(cat)"
+      "Bash(cat)",
+      "Bash(xargs sed *)"
     ]
   }
 }

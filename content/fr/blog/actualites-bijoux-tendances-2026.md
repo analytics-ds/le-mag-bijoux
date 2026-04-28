@@ -10,7 +10,7 @@ tags: ["actualités", "tendances 2026", "matériaux"]
 translationKey: "actualites-bijoux-tendances-2026"
 image: "images/blog/actualites-bijoux-tendances-2026.jpg"
 imageAlt: "Présentation de bijoux contemporains en or et titane"
-imageCredit: "Le Mag Bijoux"
+imageCredit: "Le Mag de Nébuleuse"
 faq:
   - question: "Quels sont les matériaux les plus surs pour un piercing frais ?"
     answer: "Le titane ASTM F136 et l'or 14 carats minimum sont les seuls matériaux recommandés par les perceurs professionnels pour un piercing en cicatrisation."

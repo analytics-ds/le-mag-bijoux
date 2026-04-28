@@ -1,4 +1,4 @@
-# Auteurs du blog Le Mag Bijoux — multilingue FR/EN
+# Auteurs du blog Le Mag de Nébuleuse — multilingue FR/EN
 # Structure : map d'auteurs indexee par ID (slug)
 # L'ID est utilise dans le frontmatter des articles comme `author: magalie-ergoz`
 #
@@ -53,7 +53,7 @@ magalie-ergoz:
     en: Editor-in-Chief & jewelry trends specialist
   bio:
     fr: "Magalie Ergoz dirige la ligne éditoriale du Mag Bijoux. Spécialiste mode et tendances, elle décrypte les pièces qui marquent la saison, du créole statement aux bijoux de corps, et teste les marques françaises émergentes."
-    en: "Magalie Ergoz leads the editorial line at Le Mag Bijoux. A fashion and trends specialist, she decodes the pieces that define each season, from statement hoops to body jewelry, and tests emerging French brands."
+    en: "Magalie Ergoz leads the editorial line at Le Mag de Nébuleuse. A fashion and trends specialist, she decodes the pieces that define each season, from statement hoops to body jewelry, and tests emerging French brands."
   expertise:
     - Tendances bijoux
     - Mode
