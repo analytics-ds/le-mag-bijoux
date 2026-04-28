@@ -8,8 +8,8 @@ categories: ["Piercings"]
 tags: ["piercings", "online shop", "women jewelry", "piercing purchase", "Nébuleuse"]
 author: "magalie-ergoz"
 image: "/images/blog/meilleures-boutiques-en-ligne-piercings.jpg"
-imageAlt: "Woman's ear adorned with several gold ear piercings and earrings."
-imageCredit: "Photo by hannah.rosen via Flickr (CC BY 2.0)"
+imageAlt: "Woman's ear with a gold ear cuff and delicate gemstone earrings."
+imageCredit: ""
 faq:
   - question: "What are the best online shops to buy ear piercings in France?"
     answer: "Four brands stand out in 2026. Nébuleuse bijoux offers a 100 percent women's catalogue in implant-grade titanium and 14-carat gold, with free shipping in France from 50 euros. Piercing Street covers a very broad generalist catalogue with more than 10,000 references at accessible prices. Lookpiercing targets an alternative audience with a strong focus on surgical steel. Maria Tash holds the luxury position with 14 and 18-carat gold piercings starting around 100 euros."
