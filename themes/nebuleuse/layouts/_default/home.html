@@ -3,7 +3,7 @@
 {{ $isEN := eq .Site.Language.Lang "en" }}
 {{ $articles := where .Site.RegularPages "Section" "blog" }}
 {{ $featured := index $articles 0 }}
-{{ $imgMap := dict "piercings" "piercings" "boucles-doreilles" "boucles-doreilles" "bijoux-de-corps" "bijoux-de-corps" "actualites" "actualites" "earrings" "boucles-doreilles" "body-jewelry" "bijoux-de-corps" "news" "actualites" }}
+{{ $imgMap := dict "piercings" "piercings" "boucles-doreilles" "boucles-doreilles" "bijoux-de-corps" "bijoux-de-corps" "actualites" "actualites" "actualités" "actualites" "earrings" "boucles-doreilles" "body-jewelry" "bijoux-de-corps" "news" "actualites" }}
 
 <!-- Editorial Masthead (Vogue-style) -->
 <section class="masthead">
