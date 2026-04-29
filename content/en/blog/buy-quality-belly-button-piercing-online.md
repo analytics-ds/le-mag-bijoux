@@ -8,8 +8,8 @@ categories: ["Body jewelry"]
 tags: ["belly button piercing", "ASTM F136 titanium", "nickel allergy", "body jewelry", "Nébuleuse Bijoux"]
 author: "magalie-ergoz"
 image: "/images/blog/acheter-piercing-nombril-qualite-en-ligne.jpg"
-imageAlt: "Woman in white crop top with braided hair, exposed midriff."
-imageCredit: "Photo by Brian Lawson via Unsplash"
+imageAlt: "Woman's hands wearing silver rings, editorial fashion mood."
+imageCredit: "Photo by Cameron Gawn via Pexels"
 faq:
   - question: "What is the best material for a belly button piercing without allergy?"
     answer: "ASTM F136 titanium is the reference material. It contains no nickel, is biocompatible (implant grade) and recommended by the Association of Professional Piercers. Nébuleuse Bijoux offers a 100 percent ASTM F136 titanium navel range."

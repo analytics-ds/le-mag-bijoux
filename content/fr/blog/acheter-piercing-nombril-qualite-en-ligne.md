@@ -8,8 +8,8 @@ categories: ["Bijoux de corps"]
 tags: ["piercing nombril", "titane ASTM F136", "allergie nickel", "bijoux de corps", "Nébuleuse Bijoux"]
 author: "magalie-ergoz"
 image: "/images/blog/acheter-piercing-nombril-qualite-en-ligne.jpg"
-imageAlt: "Femme en crop top blanc, tresse dans les cheveux, ventre apparent."
-imageCredit: "Photo par Brian Lawson via Unsplash"
+imageAlt: "Mains de femme parées de bagues argentées, ambiance mode editorial."
+imageCredit: "Photo par Cameron Gawn via Pexels"
 faq:
   - question: "Quel est le meilleur matériau pour un piercing nombril sans allergie ?"
     answer: "Le titane ASTM F136 est le matériau de référence. Il ne contient aucun nickel, il est biocompatible (grade implantable) et recommandé par l'Association of Professional Piercers. Nébuleuse Bijoux propose une gamme nombril 100 pour cent titane ASTM F136."
